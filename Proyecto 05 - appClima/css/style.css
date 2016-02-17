@@ -1,0 +1,42 @@
+  body{
+  text-align: center;
+  margin: 0px auto;
+  font-family: arial;
+     background-image: url("http://www.australia.com/content/australia/es_cl/facts/weather/jcr:content/mainParsys/hero/image.adapt.1663.medium.jpg");
+}
+h1,h2{
+  color: #222c61;
+  text-shadow: 0 0 1em #fff;
+  font-family: fantasy;
+}
+h1{
+  font-size: 3.5em;
+}
+h2{
+  font-size: 2em;
+}
+.grados{
+  font-size: 2em;
+  font-weight: bold;
+  margin: 3% 1% 1% 1%;
+  padding: 1% 1% 1% 1%;
+  color: 	#FFD700;
+  opacity: 0.8;
+  border-radius:100%;
+  background: none;
+}
+.grados,.icono{
+    display: inline-block;  
+}
+
+.ubicacion, .clima, .viento{
+  display: inline-block;  
+  font-size: 1.5em;
+  color: #222c61;
+  padding: 1% 1% 1% 1%;
+  margin: 1% auto;
+  box-shadow: .1em .1em .1em #444;
+  opacity: 0.7;
+  background-color: white;
+  border-radius:10%;
+}

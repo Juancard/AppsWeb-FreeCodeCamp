@@ -1,0 +1,39 @@
+body{
+  text-align: center;
+  margin: 0px auto;
+  font-family: arial;
+  background-color:	#DEB887;
+}
+
+h2{
+  color:#8B4513;
+  font-family:Garamond;
+  font-style:italic;
+}
+
+h1{
+  color:gray;
+  font-family:#708090;
+}
+
+.post{
+  text-align:left;
+  display: inline-block;  
+  width:200px;
+  margin: 1% 1% 1% 1%;
+  background-color:white;
+  padding-bottom:1%;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+}
+
+.post img{
+      height: auto; 
+    width: 200px; 
+    height: 200px;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+}
+.post p{
+  margin: auto auto auto 5px;
+}

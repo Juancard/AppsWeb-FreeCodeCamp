@@ -1,3 +1,5 @@
-Aplicación web basada en el popular juego de Ta-te-ti en donde el usuario tendrá la posibilidad de medir sus cualidades ante el mejor de los rivales: la maquina invencible. ¡Mucha suerte!
+AplicaciÃ³n web basada en el popular juego de Ta-te-ti en donde el usuario tendrÃ¡ la posibilidad de medir sus cualidades ante el mejor de los rivales: la maquina invencible. Â¡Mucha suerte!
 
 Tecnologias utilizadas: Html, Css, Javascript, JQuery, Bootstrap.
+
+Link: http://codepen.io/Juancard/full/xZayWJ/

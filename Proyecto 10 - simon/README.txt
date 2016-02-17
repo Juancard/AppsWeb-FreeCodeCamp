@@ -2,4 +2,4 @@
 
 Tecnologias utilizadas: HTML, CSS, Javascript, JQuery, Bootstrap.
 
-Tecnologias utilizadas: HTML, CSS, Javascript, JQuery, Bootstrap.
+Link: http://codepen.io/Juancard/full/QyzjVv/

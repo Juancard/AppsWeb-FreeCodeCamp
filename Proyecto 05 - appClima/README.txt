@@ -1,3 +1,7 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/Juancard/pen/MKGYbo.
+App para obtener el clima actual de tu ciudad.
+
+Tecnologias utilizadas: Html, Css, Javascript, JQuery, Bootstraps, Ajax, API de OpenWeather.
+
+Link: http://codepen.io/Juancard/pen/MKGYbo.
 
  

@@ -1,0 +1,1 @@
+﻿El Pomodoro es un reloj para dividir el tiempo dedicado a un trabajo en intervalos de 25 minutos -llamados 'pomodoros'- separados por pausas. El método ha sido adoptado en contextos de desarrollo ágil y Pair programming además de otros contextos de trabajo.

@@ -1,0 +1,41 @@
+body{
+  text-align: center;
+  margin: 0px auto;
+  font-family: arial;
+  background-color: #011;
+  color: white;
+}
+
+h1{
+  font-size: 5em;
+  font-style: italic;
+}
+
+button{
+  padding: 0;
+border: none;
+background: none;
+}
+
+.boton-redondo {
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    background-color: #011;
+    font-size: 2em;
+      border-color: green;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 50%;
+}
+
+ul{
+  list-style: none;
+}
+
+li{
+  display: inline;
+  font-size:120%;
+  padding: 0px 5px 0px 5px;
+}
+

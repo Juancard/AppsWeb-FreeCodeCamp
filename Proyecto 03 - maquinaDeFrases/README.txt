@@ -1,0 +1,1 @@
+Una muy simple web para leer frases de grandes autores de la literatura universal.
